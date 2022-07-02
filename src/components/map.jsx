@@ -1,6 +1,5 @@
 import React from "react";
 import { MapContainer, Marker, Popup, TileLayer } from "react-leaflet";
-import "../index.css";
 import { Link } from "react-router-dom";
 
 function Map() {
@@ -87,7 +86,7 @@ function Map() {
           <Marker key={user.id} position={user.value}>
             <Popup>
               <h1>{user.name}</h1>
-              <p>{user.text}</p>
+              <p className="p-0">{user.text}</p>
               <Link to={"/map/" + user.link}>Mehr Infos</Link>
             </Popup>
           </Marker>
