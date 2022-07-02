@@ -7,6 +7,7 @@ import Map from "./components/map";
 import About from "./p/about";
 import Home from "./p/home";
 import P1 from "./p/hauptmarkt";
+import P2 from "./p/hansSachsPlatz";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -20,6 +21,7 @@ root.render(
       </Routes>
       <Routes>
         <Route path="/map/hauptmarkt" element={<P1 />} />
+        <Route path="/map/hanssachsplatz" element={<P2 />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
