@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.240bb0ab.css",
+    "main.js": "/static/js/main.440afe46.js",
+    "static/media/9d-Gruppenbild.jpg": "/static/media/9d-Gruppenbild.07a119da2268dfd7bb07.jpg",
+    "static/media/Frauenkirche-verfremdet.png": "/static/media/Frauenkirche-verfremdet.aba517d0e4adbb398d9f.png",
+    "static/media/marktplatz.jpeg": "/static/media/marktplatz.bd8567b7b18bac25e84e.jpeg",
+    "static/media/Jenoe-Konrad-Cup.png": "/static/media/Jenoe-Konrad-Cup.0e774adb1509bc0ed8c3.png",
+    "static/media/bild-startseite.jpeg": "/static/media/bild-startseite.e122b7b6a6fc03f1a2c1.jpeg",
+    "index.html": "/index.html",
+    "main.240bb0ab.css.map": "/static/css/main.240bb0ab.css.map",
+    "main.440afe46.js.map": "/static/js/main.440afe46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.240bb0ab.css",
+    "static/js/main.440afe46.js"
+  ]
+}
