@@ -13,6 +13,7 @@ import P4 from "./p/kanalstraße";
 import P5 from "./p/judenhäuser";
 import P6 from "./p/arnoHamburgerstr";
 import P7 from "./p/NeuerJüdischerFriedhof";
+import MoreInfos from "./p/moreInfos";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -23,6 +24,7 @@ root.render(
         <Route path="/" element={<Home />} />
         <Route path="/map/*" element={<Map />} />
         <Route path="/about" element={<About />} />
+        <Route path="/more-Infos" element={<MoreInfos />} />
       </Routes>
       <Routes>
         <Route path="/map/hauptmarkt" element={<P1 />} />

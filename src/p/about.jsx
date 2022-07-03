@@ -81,6 +81,33 @@ class About extends Component {
           Dalisha, Violetta, Simon, Sophie, Alina, Franziska, Anna, Simon, Erik,
           Jil, Patrick und Herr Sternecker
         </p>
+        <div>
+          Bei Fragen zum Inhalt, oder falls Sie als Besucher Fehler entdecken
+          erreichen Sie uns unter:
+          <a
+            className="text-blue-500"
+            href="mailto: m.sternecker@sigmund-schuckert-gymnasium.de"
+          >
+            {" "}
+            m.sternecker@sigmund-schuckert-gymnasium.de
+          </a>{" "}
+          (Lehrer)
+          <p>
+            {" "}
+            <a className="text-blue-500" href="mailto:erik.p.schmitt@gmail.com">
+              Erik
+            </a>
+            (Webmaster)
+          </p>
+          <p className="pb-0">Diese Seite wurde in ReactJs gemacht.</p>
+          <p className="pb-0">Npm: React-Leaflet, tailwindCss, react-router.</p>
+          <a
+            href="https://github.com/Teamwastaken/jenokonradcup"
+            className="text-blue-500 "
+          >
+            Source Code
+          </a>
+        </div>
       </div>
     );
   }
