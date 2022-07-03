@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9665ba79.css",
-    "main.js": "/static/js/main.39bde7f1.js",
+    "main.js": "/static/js/main.4d3d2952.js",
     "static/media/TafelJudenhäuser.jpeg": "/static/media/TafelJudenhäuser.b02e44f2708b6b9c40ca.jpeg",
     "static/media/Synagoge_Essenweinstraße.jpeg": "/static/media/Synagoge_Essenweinstraße.77491a9abf0cd9e8262f.jpeg",
     "static/media/JudenhäuserAußen.jpeg": "/static/media/JudenhäuserAußen.1f21510813e601562890.jpeg",
@@ -16,6 +16,7 @@
     "static/media/Jenoe-Konrad-Cup.png": "/static/media/Jenoe-Konrad-Cup.0e774adb1509bc0ed8c3.png",
     "static/media/bild-startseite.jpeg": "/static/media/bild-startseite.e122b7b6a6fc03f1a2c1.jpeg",
     "static/media/IKGN-Veranstaltungshalle1.jpeg": "/static/media/IKGN-Veranstaltungshalle1.dae895120623b1c46764.jpeg",
+    "static/media/Judensau.jpeg": "/static/media/Judensau.de3f8d5a03f04e43b7c4.jpeg",
     "static/media/brandstifter.png": "/static/media/brandstifter.e4986c15f902ad888853.png",
     "static/media/IKGN-Synagoge.jpeg": "/static/media/IKGN-Synagoge.224082432d87c2534965.jpeg",
     "static/media/Knauerstrasse27.png": "/static/media/Knauerstrasse27.a5df8e8c7eec4019f05f.png",
@@ -38,10 +39,10 @@
     "static/media/Judenstain.jpeg": "/static/media/Judenstain.acfd836950a29c2596e7.jpeg",
     "index.html": "/index.html",
     "main.9665ba79.css.map": "/static/css/main.9665ba79.css.map",
-    "main.39bde7f1.js.map": "/static/js/main.39bde7f1.js.map"
+    "main.4d3d2952.js.map": "/static/js/main.4d3d2952.js.map"
   },
   "entrypoints": [
     "static/css/main.9665ba79.css",
-    "static/js/main.39bde7f1.js"
+    "static/js/main.4d3d2952.js"
   ]
 }
