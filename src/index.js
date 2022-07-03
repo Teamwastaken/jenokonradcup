@@ -11,6 +11,7 @@ import P2 from "./p/hansSachsPlatz";
 import P3 from "./p/essenweinstarsse";
 import P4 from "./p/kanalstraße";
 import P5 from "./p/judenhäuser";
+import P6 from "./p/arnoHamburgerstr";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -28,6 +29,7 @@ root.render(
         <Route path="/map/essenweinstrasse" element={<P3 />} />
         <Route path="/map/kanalstrasse" element={<P4 />} />
         <Route path="/map/judenhaeuser" element={<P5 />} />
+        <Route path="/map/arnoHamburgerStr" element={<P6 />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
