@@ -1,18 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.240bb0ab.css",
-    "main.js": "/static/js/main.440afe46.js",
+    "main.css": "/static/css/main.e682a36a.css",
+    "main.js": "/static/js/main.09205ba1.js",
+    "static/media/TafelJudenhäuser.jpeg": "/static/media/TafelJudenhäuser.b02e44f2708b6b9c40ca.jpeg",
+    "static/media/Synagoge_Essenweinstraße.jpeg": "/static/media/Synagoge_Essenweinstraße.77491a9abf0cd9e8262f.jpeg",
+    "static/media/JudenhäuserAußen.jpeg": "/static/media/JudenhäuserAußen.1f21510813e601562890.jpeg",
+    "static/media/Gedenkstein.jpg": "/static/media/Gedenkstein.af097f74d1e863217680.jpg",
+    "static/media/Kanalstraße.jpg": "/static/media/Kanalstraße.6bfeb4a653a043c7dedc.jpg",
+    "static/media/JudenhäuserInnen.jpeg": "/static/media/JudenhäuserInnen.98725af93f4200163b9b.jpeg",
     "static/media/9d-Gruppenbild.jpg": "/static/media/9d-Gruppenbild.07a119da2268dfd7bb07.jpg",
     "static/media/Frauenkirche-verfremdet.png": "/static/media/Frauenkirche-verfremdet.aba517d0e4adbb398d9f.png",
+    "static/media/Judenstain.png": "/static/media/Judenstain.a640940b3564b7ba532e.png",
     "static/media/marktplatz.jpeg": "/static/media/marktplatz.bd8567b7b18bac25e84e.jpeg",
     "static/media/Jenoe-Konrad-Cup.png": "/static/media/Jenoe-Konrad-Cup.0e774adb1509bc0ed8c3.png",
     "static/media/bild-startseite.jpeg": "/static/media/bild-startseite.e122b7b6a6fc03f1a2c1.jpeg",
+    "static/media/brandstifter.png": "/static/media/brandstifter.e4986c15f902ad888853.png",
+    "static/media/Knauerstrasse27.png": "/static/media/Knauerstrasse27.a5df8e8c7eec4019f05f.png",
+    "static/media/synagogeVorne.jpeg": "/static/media/synagogeVorne.26ac493abf1a2094e637.jpeg",
+    "static/media/SynagogeInnen.jpeg": "/static/media/SynagogeInnen.0d1996f72c8a9e2a9438.jpeg",
+    "static/media/LeoKatzenberger.jpeg": "/static/media/LeoKatzenberger.d08629463daeb0b93417.jpeg",
     "index.html": "/index.html",
-    "main.240bb0ab.css.map": "/static/css/main.240bb0ab.css.map",
-    "main.440afe46.js.map": "/static/js/main.440afe46.js.map"
+    "main.e682a36a.css.map": "/static/css/main.e682a36a.css.map",
+    "main.09205ba1.js.map": "/static/js/main.09205ba1.js.map"
   },
   "entrypoints": [
-    "static/css/main.240bb0ab.css",
-    "static/js/main.440afe46.js"
+    "static/css/main.e682a36a.css",
+    "static/js/main.09205ba1.js"
   ]
 }

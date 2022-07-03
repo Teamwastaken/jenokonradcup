@@ -4,7 +4,6 @@ import Hero from "../img/Knauerstrasse27.png";
 import Tafel from "../img/TafelJudenhäuser.jpeg";
 import Außen from "../img/JudenhäuserAußen.jpeg";
 import Innen from "../img/JudenhäuserInnen.jpeg";
-import { styled } from "styled-components";
 class P5 extends Component {
   state = {};
   render() {

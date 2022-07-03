@@ -29,7 +29,7 @@ function Map() {
       id: 4,
       name: "Obere Kanalstraße",
       link: "kanalstrasse",
-      value: [49.44843, 11.05838],
+      value: [49.44753, 11.05811],
       text: "",
     },
     {
