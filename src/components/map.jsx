@@ -49,7 +49,7 @@ function Map() {
     {
       id: 7,
       name: "Neuer Judischer Friedhof",
-      link: "",
+      link: "neuerJuedischerFriedhof",
       value: [49.46606, 11.0376],
       text: "",
     },
