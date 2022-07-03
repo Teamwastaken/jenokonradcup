@@ -16,8 +16,8 @@ class Home extends Component {
           Geschichte zu gelangen.
         </p>
         <p className="text-center w-5/6 m-auto ">
-          Ein Projekt der Klasse 9D des Sigmund Schuckert Gynasium, Nürnberg
-          Eibach für den Jenö Konrad-Cup 2022
+          Ein Projekt der Klasse 9D des des Sigmund Schuckert Gymnasiums,
+          Nürnberg Eibach für den Jenö Konrad-Cup 2022
         </p>
         <img className="w-5/6 m-auto p-10" src={JenoKonradCup} alt="" />
       </div>

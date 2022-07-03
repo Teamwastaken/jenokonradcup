@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.639b69aa.css",
-    "main.js": "/static/js/main.48c044be.js",
+    "main.css": "/static/css/main.9665ba79.css",
+    "main.js": "/static/js/main.39bde7f1.js",
     "static/media/TafelJudenhäuser.jpeg": "/static/media/TafelJudenhäuser.b02e44f2708b6b9c40ca.jpeg",
     "static/media/Synagoge_Essenweinstraße.jpeg": "/static/media/Synagoge_Essenweinstraße.77491a9abf0cd9e8262f.jpeg",
     "static/media/JudenhäuserAußen.jpeg": "/static/media/JudenhäuserAußen.1f21510813e601562890.jpeg",
@@ -12,6 +12,7 @@
     "static/media/Frauenkirche-verfremdet.png": "/static/media/Frauenkirche-verfremdet.aba517d0e4adbb398d9f.png",
     "static/media/Judenstain.png": "/static/media/Judenstain.a640940b3564b7ba532e.png",
     "static/media/marktplatz.jpeg": "/static/media/marktplatz.bd8567b7b18bac25e84e.jpeg",
+    "static/media/DeportationMärzfeld.png": "/static/media/DeportationMärzfeld.cce13fe3a4a11ae4d877.png",
     "static/media/Jenoe-Konrad-Cup.png": "/static/media/Jenoe-Konrad-Cup.0e774adb1509bc0ed8c3.png",
     "static/media/bild-startseite.jpeg": "/static/media/bild-startseite.e122b7b6a6fc03f1a2c1.jpeg",
     "static/media/IKGN-Veranstaltungshalle1.jpeg": "/static/media/IKGN-Veranstaltungshalle1.dae895120623b1c46764.jpeg",
@@ -29,16 +30,18 @@
     "static/media/LeoKatzenberger.jpeg": "/static/media/LeoKatzenberger.d08629463daeb0b93417.jpeg",
     "static/media/OpferKonzentrationslager.jpeg": "/static/media/OpferKonzentrationslager.37ba3fd85bd833645eb2.jpeg",
     "static/media/Trauerhalle.jpeg": "/static/media/Trauerhalle.55c76dc5b53d2f8d035e.jpeg",
+    "static/media/Obere Kanalstraße.jpeg": "/static/media/Obere Kanalstraße.c3b346ada6c50cfda647.jpeg",
     "static/media/JuedischerFriedhof.jpeg": "/static/media/JuedischerFriedhof.93464d01e4a069dd9c68.jpeg",
-    "static/media/ObereKanalstrasse.jpeg": "/static/media/ObereKanalstrasse.905adcd004e8ce6c37b0.jpeg",
+    "static/media/Manfred-E-.jpeg": "/static/media/Manfred-E-.65bf03a352272d70e5b1.jpeg",
+    "static/media/Bahnhof.jpeg": "/static/media/Bahnhof.744f29a534ec44a64a7a.jpeg",
     "static/media/Trauerhalle2.jpeg": "/static/media/Trauerhalle2.85c84696278b3576c4f8.jpeg",
     "static/media/Judenstain.jpeg": "/static/media/Judenstain.acfd836950a29c2596e7.jpeg",
     "index.html": "/index.html",
-    "main.639b69aa.css.map": "/static/css/main.639b69aa.css.map",
-    "main.48c044be.js.map": "/static/js/main.48c044be.js.map"
+    "main.9665ba79.css.map": "/static/css/main.9665ba79.css.map",
+    "main.39bde7f1.js.map": "/static/js/main.39bde7f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.639b69aa.css",
-    "static/js/main.48c044be.js"
+    "static/css/main.9665ba79.css",
+    "static/js/main.39bde7f1.js"
   ]
 }

@@ -42,7 +42,7 @@ function Map() {
     {
       id: 6,
       name: "Bahnhof Märzfeld",
-      link: "",
+      link: "maerzfeld",
       value: [49.41055, 11.13541],
       text: "",
     },

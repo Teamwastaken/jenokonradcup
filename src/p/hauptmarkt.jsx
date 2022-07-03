@@ -24,15 +24,6 @@ class P1 extends Component {
           Frauenkirche, umringt vom Getto.{" "}
         </p>
         <p>
-          Viele Juden flohen wegen Verfolgung im Rheinland 1146 nach Nürnberg.
-          König Konrad III. gewährte ihnen Schutz und gab ihnen das
-          Siedlungsgebiet im Pegnitzgrund. Wegen Überschwemmungsgefahr wurden
-          die Häuser auf Holzpfähle, die in den Boden getrieben wurden, gebaut.
-          Sie mussten an den ungesundesten Plätzen wohnen und wurden von
-          Stechmücken geplagt. Die Synagoge stand an Stelle der heutigen
-          Frauenkirche, umringt vom Getto.{" "}
-        </p>
-        <p>
           Als man beide Städte zu einer zusammenfasste, standen die jüdische
           Siedlung und die Synagoge genau in der neuen Stadtmitte. Der Rat der
           Stadt holte die Genehmigung des Kaisers Karls IV. ein, dass das Getto
