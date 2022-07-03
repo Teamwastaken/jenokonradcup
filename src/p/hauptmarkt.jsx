@@ -1,4 +1,3 @@
-import { divIcon } from "leaflet";
 import React, { Component } from "react";
 import Marktplatz from "../img/marktplatz.jpeg";
 import Hero from "../img/Frauenkirche-verfremdet.png";
@@ -6,7 +5,7 @@ class P1 extends Component {
   state = {};
   render() {
     return (
-      <div className="w-5/6 m-auto">
+      <div className="w-5/6 mx-auto max-w-5xl">
         <img src={Hero} alt="" className="w-5/6 m-auto pt-10 pb-10" />
         <h1>Hauptmarkt</h1>
         <p>

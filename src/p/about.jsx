@@ -4,7 +4,7 @@ import StartBild from "../img/9d-Gruppenbild.jpg";
 class About extends Component {
   render() {
     return (
-      <div className="w-5/6 m-auto p-4">
+      <div className="w-5/6 m-auto p-4 max-w-5xl">
         <img src={StartBild} alt="" />{" "}
         <p>
           Hallo, Wir sind die Klasse 9D des Sigmund-Schuckert-Gymnasiums in

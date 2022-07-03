@@ -28,14 +28,14 @@ function Map() {
     {
       id: 4,
       name: "Obere Kanalstraße",
-      link: "",
+      link: "kanalstrasse",
       value: [49.44843, 11.05838],
       text: "",
     },
     {
       id: 5,
       name: "Judenhäuser",
-      link: "",
+      link: "judenhaeuser",
       value: [49.44586, 11.05669],
       text: "",
     },

@@ -14,3 +14,9 @@ export const Image = styled.img`
     width: 100vw;
   }
 `;
+export const Images = styled.img`
+  width: 33%;
+  @media screen and (max-width: 660px) {
+    width: 100vw;
+  }
+`;
