@@ -55,7 +55,7 @@ function Map() {
     },
     {
       id: 8,
-      name: "Neue SynagogeArno HamburgerStr",
+      name: "Neue Synagoge Arnohamburgerstraße",
       link: "arnoHamburgerStr",
       value: [49.47415, 11.1018],
       text: "",

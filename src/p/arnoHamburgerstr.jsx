@@ -113,7 +113,7 @@ class P6 extends Component {
           schade, dass auch heute noch Synagogen vor Angriffen von Antisemiten
           geschützt werden müssen…
         </p>
-        <img className="max-w-xl " src={Straßenschild} alt="" />
+        <img src={Straßenschild} alt="" />
         <p>Carla, Violetta</p>
       </div>
     );

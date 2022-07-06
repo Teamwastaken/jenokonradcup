@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9665ba79.css",
-    "main.js": "/static/js/main.e68522e5.js",
+    "main.css": "/static/css/main.784de517.css",
+    "main.js": "/static/js/main.f84d8f33.js",
     "static/media/TafelJudenhäuser.jpeg": "/static/media/TafelJudenhäuser.b02e44f2708b6b9c40ca.jpeg",
     "static/media/Synagoge_Essenweinstraße.jpeg": "/static/media/Synagoge_Essenweinstraße.77491a9abf0cd9e8262f.jpeg",
     "static/media/JudenhäuserAußen.jpeg": "/static/media/JudenhäuserAußen.1f21510813e601562890.jpeg",
@@ -38,11 +38,11 @@
     "static/media/Trauerhalle2.jpeg": "/static/media/Trauerhalle2.85c84696278b3576c4f8.jpeg",
     "static/media/Judenstain.jpeg": "/static/media/Judenstain.acfd836950a29c2596e7.jpeg",
     "index.html": "/index.html",
-    "main.9665ba79.css.map": "/static/css/main.9665ba79.css.map",
-    "main.e68522e5.js.map": "/static/js/main.e68522e5.js.map"
+    "main.784de517.css.map": "/static/css/main.784de517.css.map",
+    "main.f84d8f33.js.map": "/static/js/main.f84d8f33.js.map"
   },
   "entrypoints": [
-    "static/css/main.9665ba79.css",
-    "static/js/main.e68522e5.js"
+    "static/css/main.784de517.css",
+    "static/js/main.f84d8f33.js"
   ]
 }
