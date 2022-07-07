@@ -1,14 +1,14 @@
 import React, { Component } from "react";
 import { ScalingImages, Image } from "./styledComponents";
-import Hero1 from "../img/IKGN-Synagoge.jpeg";
-import Hero2 from "../img/IKGN-Veranstaltungshalle1.jpeg";
-import Rollatorparade from "../img/Rollatorparade.jpeg";
-import Veranstaltungssaal from "../img/IKGN-Garten.png";
-import GeschichtlicherHintergrund from "../img/GeschichtlicherHinterg.jpeg";
-import NeueSynagoge from "../img/Neue-Synagoge.jpeg";
-import ArnoHamburger from "../img/Arno Hamburger.jpeg";
-import Judenstain from "../img/Judenstain.jpeg";
-import Straßenschild from "../img/Straßenschild.jpeg";
+import Hero1 from "../img/IKGN-Synagoge.avif";
+import Hero2 from "../img/IKGN-Veranstaltungshalle1.avif";
+import Rollatorparade from "../img/Rollatorparade.avif";
+import Veranstaltungssaal from "../img/IKGN-Garten.avif";
+import GeschichtlicherHintergrund from "../img/GeschichtlicherHinterg.avif";
+import NeueSynagoge from "../img/Neue-Synagoge.avif";
+import ArnoHamburger from "../img/Arno Hamburger.avif";
+import Judenstain from "../img/Judenstain1.avif";
+import Straßenschild from "../img/Straßenschild.avif";
 
 class P6 extends Component {
   render() {

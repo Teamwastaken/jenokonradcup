@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Hero from "../img/Obere Kanalstraße.jpeg";
+import Hero from "../img/Obere Kanalstraße.avif";
 class P4 extends Component {
   state = {};
   render() {

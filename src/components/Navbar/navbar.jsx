@@ -1,6 +1,6 @@
 import React from "react";
 import { FaBars } from "react-icons/fa";
-import logo from "../../img/logo.png";
+import logo from "../../img/logo.avif";
 import {
   Nav,
   NavLogo,

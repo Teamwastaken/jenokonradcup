@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import Synagoge from "../img/Synagoge_Essenweinstraße.jpeg";
-import Hero from "../img/brandstifter.png";
+import Synagoge from "../img/Synagoge_Essenweinstraße.avif";
+import Hero from "../img/brandstifter.avif";
 class P3 extends Component {
   state = {};
   render() {

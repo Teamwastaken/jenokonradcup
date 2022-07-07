@@ -1,12 +1,12 @@
 import React, { Component } from "react";
 import "../index.css";
 import { ScalingImages, Image } from "./styledComponents";
-import Synagoge from "../img/bild-startseite.jpeg";
-import SynagogeVorne from "../img/synagogeVorne.jpeg";
-import SynagogeInnen from "../img/SynagogeInnen.jpeg";
-import Judenstein from "../img/Judenstain.png";
-import Gedenkstein from "../img/Gedenkstein.jpg";
-import LeoKatzenberger from "../img/LeoKatzenberger.jpeg";
+import Synagoge from "../img/bild-startseite.avif";
+import SynagogeVorne from "../img/synagogeVorne.avif";
+import SynagogeInnen from "../img/SynagogeInnen.avif";
+import Judenstein from "../img/Judenstain2.avif";
+import Gedenkstein from "../img/Gedenkstein.avif";
+import LeoKatzenberger from "../img/LeoKatzenberger.avif";
 
 class P2 extends Component {
   state = {};

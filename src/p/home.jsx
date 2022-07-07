@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
 
-import Synagoge from "../img/bild-startseite.jpeg";
-import JenoKonradCup from "../img/Jenoe-Konrad-Cup.png";
+import Synagoge from "../img/bild-startseite.avif";
+import JenoKonradCup from "../img/Jenoe-Konrad-Cup.avif";
 
 class Home extends Component {
   render() {

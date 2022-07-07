@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import Bahnhof from "../img/Bahnhof.jpeg";
-import Deportation from "../img/DeportationMärzfeld.png";
-import Manfred from "../img/Manfred-E-.jpeg";
+import Bahnhof from "../img/Bahnhof.avif";
+import Deportation from "../img/DeportationMärzfeld.avif";
+import Manfred from "../img/Manfred-E-.avif";
 import { ScalingImages, Image } from "./styledComponents";
 class P8 extends Component {
   state = {};

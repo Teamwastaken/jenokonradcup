@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import { ScalingImages, Images } from "./styledComponents";
-import Hero from "../img/Knauerstrasse27.png";
-import Tafel from "../img/TafelJudenhäuser.jpeg";
-import Außen from "../img/JudenhäuserAußen.jpeg";
-import Innen from "../img/JudenhäuserInnen.jpeg";
+import Hero from "../img/Knauerstrasse27.avif";
+import Tafel from "../img/TafelJudenhäuser.avif";
+import Außen from "../img/JudenhäuserAußen.avif";
+import Innen from "../img/JudenhäuserInnen.avif";
 class P5 extends Component {
   state = {};
   render() {
