@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import Marktplatz from "../img/marktplatz.avif";
-import Hero from "../img/Frauenkirche-verfremdet.avif";
-import Judensau from "../img/Judensau.avif";
+import Marktplatz from "../img/marktplatz.jpeg";
+import Hero from "../img/Frauenkirche-verfremdet.png";
+import Judensau from "../img/Judensau.jpeg";
 class P1 extends Component {
   state = {};
   render() {

@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import StartBild from "../img/9d-Gruppenbild.avif";
+import StartBild from "../img/9d-Gruppenbild.jpg";
 
 class About extends Component {
   render() {

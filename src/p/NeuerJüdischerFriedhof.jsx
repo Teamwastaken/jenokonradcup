@@ -1,9 +1,9 @@
 import React, { Component } from "react";
-import Hero from "../img/JuedischerFriedhof.avif";
-import Trauerhalle from "../img/Trauerhalle.avif";
-import TrauerhalleInnen from "../img/Trauerhalle2.avif";
-import Ehrenmal from "../img/FriedhofEhrenmal.avif";
-import OpferKonzentrationslager from "../img/OpferKonzentrationslager.avif";
+import Hero from "../img/JuedischerFriedhof.jpeg";
+import Trauerhalle from "../img/Trauerhalle.jpeg";
+import TrauerhalleInnen from "../img/Trauerhalle2.jpeg";
+import Ehrenmal from "../img/FriedhofEhrenmal.jpeg";
+import OpferKonzentrationslager from "../img/OpferKonzentrationslager.jpeg";
 class P7 extends Component {
   state = {};
   render() {
