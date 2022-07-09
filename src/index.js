@@ -25,7 +25,7 @@ root.render(
         <Route path="/" element={<Home />} />
         <Route path="/map/*" element={<Map />} />
         <Route path="/about" element={<About />} />
-        <Route path="/more-Infos" element={<MoreInfos />} />
+        <Route path="/more-Info" element={<MoreInfos />} />
       </Routes>
       <Routes>
         <Route path="/map/hauptmarkt" element={<P1 />} />

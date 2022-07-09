@@ -17,7 +17,7 @@ class P5 extends Component {
           der verbliebenen jüdischen Deutschen, in sogenannte „Judenhäuser.“
         </p>
         <p>
-          Das NS- Regime gewann dadurch weiteren Wohnraum für ihre Anhänger und
+          Das NS- Regime gewann dadurch weiteren Wohnraum für seine Anhänger und
           es wurde somit ein vereinfachter Ablauf der im Spätherbst beginnenden
           Deportationen ermöglicht.{" "}
         </p>
@@ -27,13 +27,13 @@ class P5 extends Component {
         </p>
         <p>
           Die Judenhäuser wurden entweder in ehemaligen Einrichtungen der
-          israelitischen Kultusgemeinde oder in arisierten Privathäusern
-          untergebracht.
+          israelitischen Kultusgemeinde oder in arisiertend(d.h.
+          zwangsenteigneten) Privathäusern untergebracht.
         </p>
         <p>
           Eines der größten Judenhäuser befand sich in der Knauerstraße 27 und
-          es war 1941 und 1942 für mindestens 156 jüdischen Glaubens aus
-          Nürnberg die letzte Station vor ihrer Deportation in die
+          es war 1941 und 1942 für mindestens 156 Menschen jüdischen Glaubens
+          aus Nürnberg die letzte Station vor ihrer Deportation in die
           Konzentrationslager Izbica, Krasnicyn, Riga und Theresienstadt. Fast
           alle Juden wurden in diesen Konzentrationslagern ermordet.{" "}
         </p>

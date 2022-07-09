@@ -11,7 +11,7 @@ class P8 extends Component {
         <img src={Deportation} alt="" />
         <p>
           Der Bahnhof Märzfeld diente ursprünglich dazu, um die Massen an
-          Besucher zu den Reichsparteitagen in Nürnberg zu empfangen. Im Laufe
+          Besuchern zu den Reichsparteitagen in Nürnberg zu empfangen. Im Laufe
           der NS-Zeit wurde dieser aber Tatort der Judendeportationen aus
           Nürnberg und dem Nürnberger Umland. Im Zeitraum zwischen 1941 und 1944
           wurden 1632 Juden aus Nürnberg deportiert und schließlich ermordet. Es
@@ -46,7 +46,7 @@ class P8 extends Component {
         </p>
         <p>
           Sie wurden von Gestapolastwägen von ihrer Wohnung abgeholt und nach
-          Märzfeld gefahren. Dort wurden ihr ganzer Besitzt beschlagnahmt. Nach
+          Märzfeld gefahren. Dort wurden ihr ganzer Besitz beschlagnahmt. Nach
           ca. 2 Tagen Warten wurden die Juden unter unmenschlichen Bedingungen
           per Zug in die jeweiligen KZ’s deportiert.
         </p>

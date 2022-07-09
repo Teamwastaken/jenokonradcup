@@ -17,7 +17,7 @@ class P7 extends Component {
           hinter einer hohen Mauer.
         </p>
         <p>
-          Hier befinden sich teilweise 3000 Jahre alte Grabsteine ,die zeitlich
+          Hier befinden sich teilweise 300 Jahre alte Grabsteine ,die zeitlich
           unbegrenzt stehen bleiben. Der Friedhof wurde vom Architekten Emil
           Hecht entworfen, während die künstlerische Gestaltung vom jüdischen
           Künstler Ferdinand Adler übernommen wurde. Zur Eröffnung des
@@ -43,30 +43,30 @@ class P7 extends Component {
         </p>
         <img src={Ehrenmal} alt="" />
         <p>
-          Hinter der Trauerhalle befinden sich die Gräber, unteranderem
+          Hinter der Trauerhalle befinden sich die Gräber, unter anderem
           Gefallenengräber aus dem 1. Weltkrieg und Gräber von jüdischen
           Kriegsgefangen. Seit 1922 gibt es ein Denkmal in der zentralen Allee,
           welches von Fritz Landauer 1920 für einen Wettbewerb entworfen wurde.
           Auf dem Denkmal sitzt ein Greif welcher in seiner Klaue eine Kugel mit
-          dem Judenstern hält. Rechts und links auf der Säule sind die Manen der
+          dem Davidstern hält. Rechts und links auf der Säule sind die Namen der
           178 Opfer vermerkt.{" "}
         </p>
         <p>
-          Im 1.Weltkrieg kämpften rund 100.000 Deutsche Juden mit Begeisterung
-          für ihr Vaterland an Seite der deutschen Streitkräfte. Rund 12.000 von
+          Im 1.Weltkrieg kämpften rund 100.000 deutsche Juden mit Begeisterung
+          für ihr Vaterland in den deutschen Streitkräften. Rund 12.000 von
           ihnen kamen um. Wurde ihnen für diese Taten gedankt? Nein, den Juden
-          wurde sogar vor geworfen sich vor dem Einsatz zu drücken. Das
-          Kriegsministerium versuchte das bei der Judenzählung 1916
+          wurde sogar vorgeworfen, sich vor dem Einsatz zu drücken. Das
+          Kriegsministerium versuchte, das bei der Judenzählung 1916
           nachzuweisen, das Ergebnis wurde geheim gehalten. Juden waren in Augen
           der Antisemiten nur als Sündenböcke gut. Somit schwand die Hoffnung
-          der Deutschen Juden, das sie für ihre Taten jemals als vollwertige
+          der deutschen Juden, das sie für ihre Taten jemals als vollwertige
           Bürger akzeptiert werden würden.
         </p>
         <img src={OpferKonzentrationslager} alt="" />
         <p>
           Im hinteren Teil des Friedhofes befinden sich chronologisch
           aufgereihte Gräber aus der NS-Zeit, darunter auch Opfer aus der
-          Reichskristallnacht, die in der Nacht vom 9 November auf den 10
+          „Reichskristallnacht“, die in der Nacht vom 9 November auf den 10
           November 1938 wegen dem Reichspogrom umkamen. Etwas weiter stößt man
           auf die Gedenksteine für Todesopfer aus den Konzentrationslagern.
           Links hinter der Trauerhalle befindet sich, erkennbar and den

@@ -23,7 +23,8 @@ class P2 extends Component {
           einem eigenen Gotteshaus auf. So kam es also, dass der damals bekannte
           Architekt Adolf Wolff die Synagoge mit fast quadratischem Grundriss,
           einer Kuppel auf hohem Tambour und dem Eindruck einer
-          Doppelturmfassade im maurischen Stil plante.{" "}
+          Doppelturmfassade im maurischen Stil(der orientakischen Gebäuden
+          ähnelte) plante.{" "}
         </p>
         <p>
           Nach der Grundsteinlegung im März 1870 begann der vierjährige Bau am
@@ -35,13 +36,14 @@ class P2 extends Component {
           Die Gemeinde hatte 300 Familien als Mitglieder und die Synagoge
           enthielt 546 nummerierte Männer- und 389 nummerierte Frauensitze.
           Betrat man die Synagoge, so viel einem sofort die Kuppel auf, durch
-          die das Licht herein viel. (Die Seitenkuppeln waren von innen nicht
+          die das Licht herein fiel. (Die Seitenkuppeln waren von innen nicht
           ersichtlich).
         </p>
         <ScalingImages>
           <Image src={SynagogeVorne} alt="" />
           <Image src={SynagogeInnen} alt="" />
         </ScalingImages>
+        <p>Bilder Wikipedia</p>
         <h2>Die Zerstörung der Synagoge</h2>
         <p>
           {" "}
@@ -61,7 +63,7 @@ class P2 extends Component {
         </p>{" "}
         <img src={Judenstein} alt="" />{" "}
         <p>
-          Zuvor konnte die Gemeinde mit Hilfe von Fritz Frisch, dem
+          Zuvor konnte die Gemeinde mit Hilfe von Fritz Frisch, einem
           nichtjüdischen Baumeister den 500 Jahre alten „Judenstein“ – der
           letzte Überrest der mittelalterlichen Nürnberger Synagoge – retten und
           später auf dem jüdischen Friedhof vergraben. Frisch wurde aus der
@@ -71,7 +73,7 @@ class P2 extends Component {
         <h2> Die Gedenkstätte</h2>
         <p>
           Seit Rosch Haschana 1987 ist der „Judenstein“ in der neuen Synagoge
-          der Kultusgemeinde (Johann-Priem-Straße 20). Zwei Tafeln weisen mit
+          der Kultusgemeinde (Arno-Hamburger-Str). Zwei Tafeln weisen mit
           folgenden Texten auf seine Geschichte hin. "Der 'Judenstein'. Ein
           Wahrzeichen aus den Tagen vor der Vertreibung der Juden 1499. Von der
           Israelitischen Kultusgemeinde erworben und aufgestellt 1909. - Eine
@@ -88,8 +90,8 @@ class P2 extends Component {
         dem Hans-Sachs-Platz einen Gedenkstein mit Kupferplatte setzen (siehe
         Foto). 2001 ist eine zusätzliche Gedenktafel an den 1942 zum Tode
         verurteilten letzten Vorsitzenden der Israelitischen Kultusgemeinde
-        Nürnbergs Leo Katzenberger angebracht worden (siehe Foto). Seit 1998
-        heißt der Pegnitzuferweg "Leo-Katzenberger-Weg"
+        Nürnbergs Leo Katzenberger angebracht worden. Seit 1998 heißt der
+        Pegnitzuferweg "Leo-Katzenberger-Weg"
         <img src={LeoKatzenberger} alt="" />{" "}
         <h2>Leo Katzenberger und sein Todesurteil</h2>{" "}
         <p>
@@ -98,33 +100,33 @@ class P2 extends Component {
           familieneigene Schuhwarenhaus „Springmann“ leitete. Von 1939 bis 1942
           war er Vorsitzender der Israelitischen Kultusgemeinde in Nürnberg,
           nachdem 1938 sein Familienbetrieb von den Nazis konfisziert wurde.
-          Katzenberger starb am 3. Juni 1942.
+          Katzenberger wurde am 3. Juni 1942 ermordet.
         </p>
         <p>
           Leo Katzenberger war ein alter Freund der Familie Scheffler, weshalb
           er der 37 jüngeren Irene Scheffler auf Bitten ihres Vaters 1932 eine
-          Wohnung im Haus am Rande der Nürnberger Altstadt vermietete. Einer der
-          Katzenbergers Angestellten, der auch der Spendensammler für die
-          „Nationalsozialistische Volkswohlfahrt“ (NSV) war, sah, wie sein Chef
+          Wohnung im Haus am Rande der Nürnberger Altstadt vermietete. Einer von
+          Katzenbergers Angestellten(der auch der Spendensammler für die
+          „Nationalsozialistische Volkswohlfahrt“ (NSV) war) sah, wie sein Chef
           in die Wohnung zu Irene ging, nachdem sie ihren NSV– Beitrag nicht
           bezahlen konnte. So fing er an, Gerüchte über eine angebliche Affäre
           der beiden zu verbreiten. Andere Hausbewohner schlossen sich an und
           bereicherten die Gerüchte mit noch mehr Lügen.
         </p>
         <p>
-          Schließlich wandte sich ein Hausbewohner an NSDAP im Herbst 1939,
+          Schließlich wandte sich ein Hausbewohner im Herbst 1939 an die NSDAP,
           worauf Katzenberger zwei Jahre später im März wegen des Vorwurfs der
           „Rassenschande“ (nach den „Nürnberger Gesetzen“ durften u.a. Juden und
           Nichtjuden keine sexuellen Beziehungen miteinander haben) verhaftet
-          wurde. Bei der Vernehmung gaben Katzenberger und Irene, die seit
-          Sommer 1939 verheiratet war und den Nachnamen Seiler trug, zu, dass
-          sie eine väterlich-freundschaftliche Beziehung hatten, die nie darüber
+          wurde. Bei der Vernehmung gaben Katzenberger und Irene(die seit Sommer
+          1939 verheiratet war und den Nachnamen Seiler trug) zu, dass sie eine
+          väterlich-freundschaftliche Beziehung hatten, die nie darüber
           hinausging.
         </p>
         <p>
           Im Herbst 1941 kam das Verfahren vor das Sondergericht der Nürnberger
-          Landgerichtsdirektor Oswald Rothaug, der weitere Ausklagen vorwarf,
-          die das angebliche Unrecht Katzenbergers verstärkten und somit sein
+          Landgerichtsdirektor Oswald Rothaug, der weitere Anklagen erfand, die
+          das angebliche Unrecht Katzenbergers verstärkten und somit sein
           Todesurteil berechtigten.
         </p>
         <p>
@@ -135,7 +137,7 @@ class P2 extends Component {
           erlaubten, gegen Leo Katzenberger eine Todesstrafe zu verhängen.
           Während des gesamten Prozesses durfte Katzenberger nicht ausreden –
           stattdessen wurde er Opfer grausamer Demütigungen. Irene Seiler wurde
-          auch nicht in Ruhe gelassen – Rothaug wies sie daraufhin, dass sie
+          auch nicht in Ruhe gelassen – Rothaug wies sie darauf hin, dass sie
           mehr Zeitschriften lesen sollte, denn dann wüsste sie, dass
           „Rassenschande schlimmer als Mord“ sei.
         </p>

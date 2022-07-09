@@ -22,7 +22,7 @@ class P6 extends Component {
           <Image src={Hero2} />
         </ScalingImages>
         <p className="p-0">
-          Heute befindet sich die Neue Synagoge in der Arno-Hamburger-Straße 3
+          Heute befindet sich die neue Synagoge in der Arno-Hamburger-Straße 3
           und die Israelitische Kultusgemeinde Nürnberg (IKGN) zählt ca. 2000
           Mitglieder. Zur Gemeinde gehört auch das Adolf Hamburger Altenheim,
           dieses ist für alle Leute offen, sie streiten sich zwar manchmal, aber
@@ -30,7 +30,7 @@ class P6 extends Component {
         </p>
         <p>
           Des Weiteren gibt es viele Angebote für Kinder, Jugendliche und
-          Altenheimbewohner. Z.B. Ausflüge, Studien- und Familienfahrten und
+          Altenheimbewohner, z.b. Ausflüge, Studien- und Familienfahrten und
           Rollatorparaden.
         </p>
         <img className="p-20" src={Rollatorparade} alt="" />
@@ -41,20 +41,20 @@ class P6 extends Component {
           im Arno-Hamburger-Saal ein modernes Kunstwerk der Künstlerin Rachel
           Kohn: „Ich will meine Wohnung unter euch haben“ (das sagt Gott im 3.
           Buch Mose, Kapitel 26 Vers 11). Es besteht aus über 2000 kleinen
-          unterschiedlichen Kugeln die symbolisieren, wie verschieden und bunt
+          unterschiedlichen Kugeln, die symbolisieren, wie verschieden und bunt
           die Mitglieder der Gemeinde sind.{" "}
         </p>
         <img src={GeschichtlicherHintergrund} alt="" />
         <h2>Geschichtlicher Hintergrund</h2>
         <p>
           Die Kultusgemeinde hatten die Nationalsozialisten aufgelöst, ihr
-          Eigentum wurde „arisiert“ oder zerstört. Nach der Befreiung am 20.
-          April 1945 standen die wenigen Überlebenden z.B. Adolf Hamburger vor
-          dem Nichts. Von den Amerikanern erhielten sie das ehemalige jüdische
-          Schwesternwohnheim in der Wielandstraße 6 zurück, welches sie als
-          Alten- und Wohnheim für die Überlebenden der Konzentrationslager
-          nutzten. Anfang der 1950er Jahre zählte die Ende 1945 neugegründete
-          Gemeinde dann wieder knapp 200 Mitglieder.{" "}
+          Eigentum wurde „arisiert“(d.h zwangsenteignet) oder zerstört. Nach der
+          Befreiung am 20. April 1945 standen die wenigen Überlebenden z.B.
+          Adolf Hamburger vor dem Nichts. Von den Amerikanern erhielten sie das
+          ehemalige jüdische Schwesternwohnheim in der Wielandstraße 6 zurück,
+          welches sie als Alten- und Wohnheim für die Überlebenden der
+          Konzentrationslager nutzten. Anfang der 1950er Jahre zählte die Ende
+          1945 neugegründete Gemeinde dann wieder knapp 200 Mitglieder.{" "}
         </p>
         <img src={NeueSynagoge} alt="" />
         <p>
@@ -83,10 +83,10 @@ class P6 extends Component {
         </p>
         <p>
           Hamburger nahm später als Übersetzer an den Nürnberger
-          Nachfolgeprozessen ab 1946 teil. Seitdem engagierte er sich auch stark
-          in der Jugendarbeit in Nürnberg und beim Wiederaufbau einer
-          demokratischen Gesellschaft. 1972 wurde Hamburger Vorsitzender der
-          Israelitischen Kultusgemeinde und übte dieses Amt mit einer kurzen
+          Nachfolgeprozessen gegen Nazis ab 1946 teil. Seitdem engagierte er
+          sich auch stark in der Jugendarbeit in Nürnberg und beim Wiederaufbau
+          einer demokratischen Gesellschaft. 1972 wurde Hamburger Vorsitzender
+          der Israelitischen Kultusgemeinde und übte dieses Amt mit einer kurzen
           Unterbrechung bis zu seinem Tod aus.
         </p>
         <p>
@@ -100,9 +100,9 @@ class P6 extends Component {
           Der Judenstain ist seit dem 14. Jahrhundert in Nürnberg und ist ein
           aus Sandstein gemeißelter Tora Aufsatz. Er befand sich in der Synagoge
           am Hauptmarkt, später in einem Haus in der Judengasse. Beim Abbruch
-          der Hauptsynagoge am Hans wurde er vom Baumeister Fritz Frisch, einem
-          NSDAP Mitglied versteckt und auf dem jüdischen Friedhof vergraben.
-          Fritz wurde später von der NSDAP ausgeschlossen und wegen
+          der Hauptsynagoge am Hans Sachs Platz wurde er vom Baumeister Fritz
+          Frisch, einem NSDAP Mitglied versteckt und auf dem jüdischen Friedhof
+          vergraben. Fritz wurde später von der NSDAP ausgeschlossen und wegen
           „Charakterlosigkeit“ öffentlich gebrandmarkt. 1987 wurde der
           Judenstein wieder entdeckt und kehrte in die neue Synagoge zurück und
           wurde dort in die Wand eingemauert.

@@ -30,7 +30,7 @@ class P3 extends Component {
         <p>
           Aus diesen Gründen hatte sich die Adas Isroel von der moderneren,
           liberalen Gemeinde nach einem längeren Streit darüber, wie man die
-          Religion ausüben sollte abgespalten. Die Mehrzahl der Nürnberger
+          Religion ausüben sollte, abgespalten. Die Mehrzahl der Nürnberger
           Jüdinnen und Juden war aber Anhänger des liberalen Judentums.{" "}
         </p>
         <p>

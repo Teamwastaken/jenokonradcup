@@ -20,7 +20,7 @@ function Map() {
     },
     {
       id: 3,
-      name: "Synago Essenweinstraße",
+      name: "Synagoge Essenweinstraße",
       link: "essenweinstrasse",
       value: [49.4463, 11.07258],
       text: "",
@@ -55,7 +55,7 @@ function Map() {
     },
     {
       id: 8,
-      name: "Neue Synagoge Arnohamburgerstraße",
+      name: "Neue Synagoge Arnohamburger Straße",
       link: "arnoHamburgerStr",
       value: [49.47415, 11.1018],
       text: "",

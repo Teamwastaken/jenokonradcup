@@ -36,14 +36,14 @@ class About extends Component {
           Juden erzählt haben. Was uns echt erstaunt hat ist, dass
           Antisemitismus immer noch so aktuell ist. Wir haben persönlich davon
           eigentlich nichts mitbekommen, da Jude sein in unserem Umfeld nichts
-          daran ändert wie man behandelt wird, doch Noam Petri aus Frankfurt am
+          daran ändert, wie man behandelt wird. Doch Noam Petri aus Frankfurt am
           Main hat uns anderes erzählt. Ein paar echt verblüffende Sachen waren
           unter anderem: Dass einer seiner Freunde den Kontakt mit ihm abbrach,
           als er von seiner jüdischen Religion erfuhr, oder dass er seine
           Davidsternkette in der Öffentlichkeit lieber nicht zeigt, da es schon
           öfters zu gewalttätigen Übergriffen bei seinen Freunden kam. Wir haben
           gegoogelt und die Fallzahlen haben uns überrascht: Die Zahl der
-          antisemitischen übergriffe 2021 lag bei mehr als 3.000; gegenüber 2020
+          antisemitischen Übergriffe 2021 lag bei mehr als 3.000; gegenüber 2020
           sind die antisemitischen Straftaten um ganze 29% gestiegen.
         </p>
         <p> Doch was kann man dagegen tun? </p>

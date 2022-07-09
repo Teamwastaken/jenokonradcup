@@ -30,7 +30,7 @@ class P1 extends Component {
           über 1000 Personen. Die Rindfleisch-Verfolgung forderte 628 Männer,
           Frauen und Kinder, die in Nürnberg ermordet wurden, auch einer der
           wichtigsten jüdischen Gelehrten des Mittelalters: Mordchai Ben Hillel.
-          Diese Programme wurden möglich, da Adolf von Nassau und Albrecht von
+          Diese Pogrome wurden möglich, da Adolf von Nassau und Albrecht von
           Habsburg sich um den Königsthron stritten, wodurch es Unruhen und
           Rechtsunsicherheit im Land gab. Der Gewinner des Thronstreits, König
           Albrecht von Habsburg bestrafte 1928 die Aufrüher und sorgte dafür,
@@ -54,7 +54,7 @@ class P1 extends Component {
           und verprügelte die Juden, die zum Tor hinausgezwungen wurden. Am Ende
           wurden etwa 500 von ihnen beraubt, gefesselt und zum heutigen Maxfeld
           hinausgetrieben. Dort trug man Holz für ein riesiges Feuer zusammen
-          und verbrannte sie. Lange-noch hieß die Stelle Judenbühl. Trotzdem
+          und verbrannte sie. Lange noch hieß die Stelle Judenbühl. Trotzdem
           ließen sich wieder Juden in Nürnberg nieder, bis sie 1498 erneut
           vertrieben wurden.
         </p>
