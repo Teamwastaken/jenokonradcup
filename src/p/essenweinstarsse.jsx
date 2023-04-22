@@ -5,8 +5,8 @@ class P3 extends Component {
   state = {};
   render() {
     return (
-      <div className="w-5/6 mx-auto max-w-5xl">
-        <img src={Hero} alt="" />
+      <div className='w-5/6 mx-auto max-w-5xl'>
+        <img src={Hero} alt='' />
         <h1>Synagoge in der Essenweinstraße (1903-1938)</h1>
         <p>
           Nach Errichtung der Haupsynagoge am Hans-Sachs-Platz, wurde 1902 die
@@ -46,7 +46,7 @@ class P3 extends Component {
           Am 9.11.1988 wurde das heutige Denkmal an der Essenweinstraße
           eingeweiht.
         </p>
-        <img src={Synagoge} alt="" />
+        <img src={Synagoge} alt='' />
         <p>Franziska, Simon, Jotta</p>
       </div>
     );

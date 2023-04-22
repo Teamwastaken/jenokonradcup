@@ -22,20 +22,20 @@ root.render(
     <BrowserRouter>
       <Navigation />
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/map/*" element={<Map />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/more-Info" element={<MoreInfos />} />
+        <Route path='/' element={<Home />} />
+        <Route path='/map/*' element={<Map />} />
+        <Route path='/about' element={<About />} />
+        <Route path='/more-Info' element={<MoreInfos />} />
       </Routes>
       <Routes>
-        <Route path="/map/hauptmarkt" element={<P1 />} />
-        <Route path="/map/hanssachsplatz" element={<P2 />} />
-        <Route path="/map/essenweinstrasse" element={<P3 />} />
-        <Route path="/map/kanalstrasse" element={<P4 />} />
-        <Route path="/map/judenhaeuser" element={<P5 />} />
-        <Route path="/map/arnoHamburgerStr" element={<P6 />} />
-        <Route path="/map/neuerJuedischerFriedhof" element={<P7 />} />
-        <Route path="/map/maerzfeld" element={<P8 />} />
+        <Route path='/map/hauptmarkt' element={<P1 />} />
+        <Route path='/map/hanssachsplatz' element={<P2 />} />
+        <Route path='/map/essenweinstrasse' element={<P3 />} />
+        <Route path='/map/kanalstrasse' element={<P4 />} />
+        <Route path='/map/judenhaeuser' element={<P5 />} />
+        <Route path='/map/arnoHamburgerStr' element={<P6 />} />
+        <Route path='/map/neuerJuedischerFriedhof' element={<P7 />} />
+        <Route path='/map/maerzfeld' element={<P8 />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
